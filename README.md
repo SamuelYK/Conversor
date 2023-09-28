@@ -2,17 +2,17 @@
 Este es un programa simple en Java que permite a los usuarios convertir entre diferentes monedas y unidades de temperatura. El programa utiliza la biblioteca javax.swing para proporcionar una interfaz de usuario gráfica.
 
 ## Funcionalidades
-  ## Conversor de Moneda
+  ### Conversor de Moneda
   Convierte entre Pesos Mexicanos (MXN) y las siguientes monedas:
-  -Dólar (USD)
-  -Euro (EUR)
-  -Libras Esterlinas (GBP)
-  -Yen Japonés (JPY)
-  -Won sur-coreano (KRW)
-  ##Conversor de Temperatura
-  -Convierte entre las siguientes unidades de temperatura:
-  -Celsius (°C)
-  -Fahrenheit (°F)
+  - Dólar (USD)
+  - Euro (EUR)
+  - Libras Esterlinas (GBP)
+  - Yen Japonés (JPY)
+  - Won sur-coreano (KRW)
+  ### Conversor de Temperatura
+  - Convierte entre las siguientes unidades de temperatura:
+  - Celsius (°C)
+  - Fahrenheit (°F)
 
 # Instrucciones de Uso
 Ejecute el programa Java desde su entorno de desarrollo o desde la línea de comandos.
